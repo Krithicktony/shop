@@ -1,0 +1,78 @@
+*{
+    background-color: black;
+    color: white;
+}
+.p1{
+    text-align: center;
+    background-color: olive;
+    text-shadow: 2px;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+ul,li{
+    display: inline;
+    margin-left: 150px;
+    padding: 2px;
+    padding-bottom: 4px;
+    text-decoration: none;
+}
+#big{
+    width: 100%;
+    height: auto;
+}
+.head3{
+    text-align: center;
+}
+#img1,.mg1{
+    width: 200px;
+    height: 230px;
+    display: inline-block;
+}
+#img2, .mg2{
+    width: 200px;
+    height: 230px;
+    display: inline-block;
+}
+#img3, .mg3{
+    width: 200px;
+    height: 230px;
+    display: inline-block;
+}
+#img4, .mg4{
+    width: 200px;
+    height: 230px;
+    display: inline-block;
+}
+.img5{
+    padding: 10px;
+    margin: 200px;
+    text-align: center;  
+}
+a:hover{
+    color: blue;
+}
+a{
+    text-decoration: none;
+}
+.forms{
+    text-align: center;
+
+}
+#email{
+    width: 200px;
+}
+.mail{
+    height: 16px;
+    width: 28px;
+}
+.insta{
+    height: 16px;
+    width: 28px;
+}
+.fb{
+    height: 16px;
+    width: 28px;
+}
+
